@@ -1,6 +1,6 @@
 # Iris Flower Classification 🌸📊
 
-![Iris](https://www.shutterstock.com/shutterstock/photos/1936627270/display_1500/stock-photo-beautiful-iris-flower-isolated-on-white-background-1936627270.jpg) <!-- Add an image of iris flowers -->
+![Iris](https://img.freepik.com/premium-photo/petals-dark-purple-iris-flower-macro-stem_124507-20795.jpg?w=2000) <!-- Add an image of iris flowers -->
 
 This repository contains a machine learning project for classifying iris flowers using different algorithms.
 
