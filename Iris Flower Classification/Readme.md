@@ -28,7 +28,7 @@ We experimented with multiple algorithms and evaluated their performance:
 
 We used permutation importance to determine feature importance for the Decision Tree model. The following features had the most impact on the predictions:
 
-![Feature Importance](feature_importance.png) <!-- Add an image of the feature importance plot -->
+![Feature Importance](https://editor.analyticsvidhya.com/uploads/51518iris%20img1.png) <!-- Add an image of the feature importance plot -->
 
 ## Try It Yourself! 🌼
 
